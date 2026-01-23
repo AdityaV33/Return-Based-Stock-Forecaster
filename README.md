@@ -61,7 +61,8 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
---
+---
+```
 
 🚀 How To Use
 Step 1: Train models
@@ -128,5 +129,6 @@ Deploy on Streamlit Cloud
 📜 License
 
 This project is intended for academic / educational use
+
 
 
