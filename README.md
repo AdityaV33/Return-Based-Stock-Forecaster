@@ -130,5 +130,10 @@ Deploy on Streamlit Cloud
 
 This project is intended for academic / educational use
 
+<img width="1034" height="779" alt="image" src="https://github.com/user-attachments/assets/13ef49ad-29fc-48f4-883b-75d4a0d1bee2" />
+<img width="1038" height="813" alt="image" src="https://github.com/user-attachments/assets/52bfc4fd-ec01-4042-95d2-6afa58e457d7" />
+<img width="984" height="720" alt="image" src="https://github.com/user-attachments/assets/56b37b87-fe12-4beb-ab02-0d41d809b741" />
+<img width="930" height="815" alt="image" src="https://github.com/user-attachments/assets/1dfbbf63-aeaf-42a9-b10e-8eb5c2b00b79" />
+
 
 
